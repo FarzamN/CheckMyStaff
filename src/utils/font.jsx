@@ -1,0 +1,50 @@
+export const Font = {
+    // All Poppins
+    Poppins300: 'Poppins-Light',
+    Poppins400: 'Poppins-Regular',
+    Poppins500: 'Poppins-Medium',
+    Poppins600: 'Poppins-SemiBold',
+    Poppins700: 'Poppins-Bold',
+    Poppins800: 'Poppins-ExtraBold',
+    Poppins900: 'Poppins-Black',
+    // All Gilroy
+    Gilroy100: 'Gilroy-Thin',
+    Gilroy200: 'Gilroy-UltraLight',
+    Gilroy300: 'Gilroy-Light',
+    Gilroy400: 'Gilroy-Regular',
+    Gilroy500: 'Gilroy-Medium',
+    Gilroy600: 'Gilroy-SemiBold',
+    Gilroy700: 'Gilroy-Bold',
+    Gilroy800: 'Gilroy-ExtraBold',
+    Gilroy900: 'Gilroy-Black',
+    // All Inter
+    Inter100: 'Inter-Thin',
+    Inter200: 'Inter-UltraLight',
+    Inter300: 'Inter-Light',
+    Inter400: 'Inter-Regular',
+    Inter500: 'Inter-Medium',
+    Inter600: 'Inter-SemiBold',
+    Inter700: 'Inter-Bold',
+    Inter800: 'Inter-ExtraBold',
+    Inter900: 'Inter-Black',
+    // All Roborto
+    Roboto100: 'Roboto-Thin',
+    Roboto200: 'Inter-UltraLight',
+    Roboto300: 'Roboto-Light',
+    Roboto400: 'Roboto-Regular',
+    Roboto500: 'Roboto-Medium',
+    Roboto600: 'Inter-SemiBold',
+    Roboto700: 'Roboto-Bold',
+    Roboto800: 'Inter-ExtraBold',
+    Roboto900: 'Roboto-Black',
+    // All NunitoSans
+    NunitoSans300: 'NunitoSans-Light',
+    NunitoSans400: 'NunitoSans-Regular',
+    NunitoSans600: 'NunitoSans-SemiBold',
+    NunitoSans700: 'NunitoSans-Bold',
+    NunitoSans800: 'NunitoSans-ExtraBold',
+    NunitoSans900: 'NunitoSans-Black',
+    // NATS
+    Nats: 'NATS 400',
+  };
+  
